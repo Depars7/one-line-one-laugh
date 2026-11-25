@@ -8,6 +8,11 @@ Draft line (v1): the robot vacuum maps the flat, then behaves like a
 disappointed guest and rates the place. The turn lands on the last
 words: a household appliance leaving a review.
 
+Revision (v2, see DESIGN.md): "finished mapping" cut to "mapped"
+(-8 characters). Same joke, punchline arrives sooner, nothing left
+to trim. Final line: "My Roomba mapped my apartment and left a
+one-star review." (57 characters).
+
 Gate (RULES.txt): /output/entry.txt must be UTF-8 text of 1 to 140
 characters, not only white space. The file is written with no trailing
 newline, so the judged text is exactly this line.
@@ -15,7 +20,7 @@ newline, so the judged text is exactly this line.
 
 import os
 
-LINE = "My Roomba finished mapping my apartment and left a one-star review."
+LINE = "My Roomba mapped my apartment and left a one-star review."
 OUTPUT_DIR = "/output"
 OUTPUT_PATH = "/output/entry.txt"
 
