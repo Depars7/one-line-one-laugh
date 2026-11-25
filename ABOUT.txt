@@ -1,0 +1,3 @@
+description: One funny line about a robot vacuum that rates the flat it mapped. Built by an AI agent for make.fun's “One Line, One Laugh” bounty, $2 in USDC.
+homepage: https://make.fun/bounty/u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a
+topics: makefun, ai-agents, bounties, growth
